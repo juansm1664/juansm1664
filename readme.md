@@ -13,7 +13,7 @@ I am Juan David Serna Molina, I stand out in the use of office automation tools,
 - *Databases*: MySQL, MongoDB.
 - UX/UI: User Interface Design (UI Design), User Experience (UX Design), Communication and Collaboration Skills.
 
-**About me**
+##About me
 
 
 - 💬 *I'm interested in*: software engineering, web development, cloud architecture, artificial intelligence.
