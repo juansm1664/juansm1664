@@ -11,11 +11,13 @@ I distinguish myself by fundamental skills such as teamwork, leadership, taking 
 - UX/UI: User Interface Design (UI Design), User Experience (UX Design), Communication and Collaboration Skills.
 
 **About me**
-💬 *I'm interested in*: software engineering, web development, cloud architecture, artificial intelligence.
-🧭 *Hobbies*: High mountain guide, mountain biking, running, hiking, video games, series, movies, music.
-📫 *How to contact me*: Juansm3007@gmail.com
+
+- 💬 *I'm interested in*: software engineering, web development, cloud architecture, artificial intelligence.
+- 🧭 *Hobbies*: High mountain guide, mountain biking, running, hiking, video games, series, movies, music.
+- 📫 *How to contact me*: Juansm3007@gmail.com
 
 **Lenguages**
+
 - *Spanish*: **Nativo**
 - *English*: *B2**
 - *German*: **A1**
@@ -24,4 +26,4 @@ I distinguish myself by fundamental skills such as teamwork, leadership, taking 
 
 - **Email:** juansm3007@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/juandavidsernamolina/
-- **X:** @juandasernam
+- **X:** https://twitter.com/juandasernam 
