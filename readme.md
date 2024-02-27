@@ -1,13 +1,14 @@
 Hello! 👋
-Welcome to my GitHub profile! I am Juan David Serna Molina, I stand out in the use of office automation tools, construction of databases and application of agile methodologies such as SCRUM. I have experience in software development with **JAVA** technology using the Spring framework and its *Spring Boot*, *Data*, *Security* modules. I have experience in the development of Rest API, use of Docker and management of Relationship (MySQL), Non-relational (MongoDB) and Unit Testing databases.
+Welcome to my GitHub profile!
+I am Juan David Serna Molina, I stand out in the use of office automation tools, construction of databases and application of agile methodologies such as SCRUM. I have experience in software development with **JAVA** technology using the Spring framework and its *Spring Boot*, *Data*, *Security* modules. I have experience in the development of Rest API, use of Docker and management of Relationship (MySQL), Non-relational (MongoDB) and Unit Testing databases.
 I distinguish myself by fundamental skills such as teamwork, leadership, taking on challenges and accepting criticism. My critical and strategic thinking, along with notable adaptability, planning and resilience skills, support my performance in any work environment. My ability to express myself orally, empathy and solidarity are key to my professional approach.
 
 **Skills**
-- *Backend*: Java with Spring Boot Framework
-- *Frontend*: JavaScript, Typescript with React
-- *Cloud*: GCP, Kubernetes
+- *Backend*: Java with Spring Boot Framework.
+- *Frontend*: JavaScript, Typescript with React.
+- *Cloud*: GCP, Kubernetes.
 - *Docker*
-- *Databases*: MySQL, MongoDB
+- *Databases*: MySQL, MongoDB.
 - UX/UI: User Interface Design (UI Design), User Experience (UX Design), Communication and Collaboration Skills.
 
 **About me**
@@ -19,7 +20,7 @@ I distinguish myself by fundamental skills such as teamwork, leadership, taking 
 **Lenguages**
 
 - *Spanish*: **Nativo**
-- *English*: *B2**
+- *English*: **B2**
 - *German*: **A1**
   
 **Contact**
