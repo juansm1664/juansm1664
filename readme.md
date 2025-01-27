@@ -7,10 +7,10 @@ I am Juan David Serna Molina, I stand out in the use of office automation tools,
 
 ## Skills
 - *Backend*: Java with Spring Boot Framework | Python whith Django Framework.
-- *Frontend*: JavaScript | Typescript with React.
+- *Frontend*: JavaScript | Typescript with React & Angular.
 - *Devops* : Docker | Kubernetes | GIT | Microservicios | Jenkins | CI/CD
 - *Cloud*: GCP - Google Cloud Platform
-- *Databases*: Relational database - MySQL | Non relational - MongoDB.
+- *Databases*: Relational database - MySQL - PLSQL | Non relational - MongoDB.
 - UX/UI: User Interface Design (UI Design) | User Experience (UX Design) | Communication and Collaboration Skills.
 
 ## About me
